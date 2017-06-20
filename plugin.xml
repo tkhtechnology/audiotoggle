@@ -35,7 +35,7 @@
   
         <config-file target="res/xml/config.xml" parent="/*">
 			<feature name="AudioTogglePlugin">
-				<param name="android-package" value="cordova-plugin-audiotoggle.AudioTogglePlugin" />
+				<param name="android-package" value="com.dooble.audiotoggle.AudioTogglePlugin" />
 			</feature>	
         </config-file>
 
